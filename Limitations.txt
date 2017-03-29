@@ -1,0 +1,12 @@
+Limitations:
+
+Our Database: 
+
+1. can store only one guardian contact number.
+2. Peon is included in the staff hence we deleted the Peon Table.
+3. One Person is allowed to stay only in one committe.Which means that he can, in a single year, be a member of only one committee.
+4. Institute to emplyee student to institute transaction happens only through cheque.
+4.(a) One student can pay his fees in installments.which means by 2-3 differenct cheques summing up to the required amount.
+5. One staff can get salary in different banks.In short bank can be changed for giving salary.
+6. One Faculty can stay only in one committee.
+7. Once a student has entered in a program he/she cant change the program.
